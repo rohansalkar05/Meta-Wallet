@@ -1,0 +1,8 @@
+{
+  "name": "hardhat-wallet-project",
+  "version": "1.0.0",
+  "description": "Hardhat 3 Smart Contract Development Environment",
+  "devDependencies": {
+    "hardhat": "^2.22.0"
+  }
+}
